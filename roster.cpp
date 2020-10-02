@@ -225,7 +225,6 @@ void Roster::remove(string studentID) {
 
 
 
-
 Roster::~Roster() {
     cout << "Roster Destructor called";
 }
